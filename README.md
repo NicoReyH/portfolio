@@ -1,2 +1,2 @@
 # portfolio
-Portafolio personal no terminado. Falta el backend.
+Portafolio personal no terminado aún.
